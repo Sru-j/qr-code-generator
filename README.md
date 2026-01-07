@@ -13,5 +13,5 @@ A simple Python-based QR Code Generator that converts text or URLs into QR codes
 - Pillow
 
 ## Installation
-bash
+bash ,
 pip install qrcode[pil]
